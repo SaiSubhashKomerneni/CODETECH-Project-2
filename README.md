@@ -28,9 +28,10 @@ Materials and methods:
 - Evaluating the best model
 - Hyperparameter tuning
 - integrating the model
+  
 USED LIBRARIES: 
-Pandas
-Numpy
-Matplotlib
-Scikitlearn
-streamlit
+Pandas                     
+Numpy                         
+Matplotlib                       
+Scikitlearn                          
+streamlit                             
