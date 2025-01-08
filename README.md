@@ -29,7 +29,7 @@ Materials and methods:
 - Hyperparameter tuning
 - integrating the model
   
-USED LIBRARIES: 
+USED LIBRARIES:                 
 Pandas                     
 Numpy                         
 Matplotlib                       
